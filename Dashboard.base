@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      not:
+        - file.ext == "png"
+        - file.ext == "base"
+    order:
+      - file.name
+      - categories
+      - data creation
+      - status
+      - file.folder

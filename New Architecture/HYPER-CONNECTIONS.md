@@ -1,3 +1,10 @@
+---
+status: summarized
+data creation: 2025-02-01
+categories:
+  - Transformer
+  - Architecture
+---
 ![[images/Pasted image 20250119115744.png]]
 ![[images/Pasted image 20250115162632.png]]
 ![[images/Pasted image 20250119111540.png]]
